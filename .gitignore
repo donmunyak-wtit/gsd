@@ -1,0 +1,4 @@
+*.ucs
+*.key
+*.DS_Store
+logs
